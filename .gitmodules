@@ -4,7 +4,7 @@
 	branch = master
 [submodule "Ntuplizer"]
 	path = Ntuplizer
-	url = git@github.com:dntaylor/DevTools-Ntuplizer.git
+	url = git@github.com:mmozercern/DevTools-Ntuplizer.git
 	branch = 80X
 [submodule "Plotter"]
 	path = Plotter
