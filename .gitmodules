@@ -20,5 +20,5 @@
 	branch = master
 [submodule "Utilities"]
 	path = Utilities
-	url = git@github.com:dntaylor/DevTools-Utilities.git
+	url = git@github.com:mmozercern/DevTools-Utilities.git
 	branch = master
